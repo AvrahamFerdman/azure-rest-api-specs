@@ -35,8 +35,8 @@
             "Heartbeat"
           ],
           "enable": true,
-          "createdDate": "Sun, 12 Jan 2020 12:51:10 GMT",
-          "lastModifiedDate": "Sun, 12 Jan 2020 12:51:10 GMT"
+          "createdDate": "Sun, 14 Nov 2021 12:51:10 GMT",
+          "lastModifiedDate": "Sun, 14 Nov 2021 12:51:10 GMT"
         },
         "id": "/subscriptions/00000000-0000-0000-0000-00000000000/resourcegroups/RgTest1/providers/microsoft.operationalinsights/workspaces/DeWnTest1234/export/export1",
         "name": "export1",
@@ -58,8 +58,8 @@
             "Heartbeat"
           ],
           "enable": true,
-          "createdDate": "Sun, 12 Jan 2020 12:51:10 GMT",
-          "lastModifiedDate": "Sun, 12 Jan 2020 12:51:10 GMT"
+          "createdDate": "Sun, 14 Nov 2021 12:51:10 GMT",
+          "lastModifiedDate": "Sun, 14 Nov 2021 12:51:10 GMT"
         },
         "id": "/subscriptions/00000000-0000-0000-0000-00000000000/resourcegroups/RgTest1/providers/microsoft.operationalinsights/workspaces/DeWnTest1234/export/export1",
         "name": "export1",
